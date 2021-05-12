@@ -19,3 +19,7 @@ This is a simple UX/UI Design Challenge.
 ## Submitting your assessment
 
 Please submit your wireframes to Jerome by email, he would've emailed you the link to the assessments
+
+## Questions?
+
+Post something in a `Discussion`
