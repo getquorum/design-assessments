@@ -10,7 +10,7 @@ This is a simple UX/UI Design Challenge.
 ## Guidelines
 
 - We're looking for a series of 3 to 5 wireframes (or slightly more if you feel it's needed)
-- It doesn't have to be a full-fledged pixel perfect Figma prototype, some hand-drawn wireframes (or some Powerpoint slides) is good enough
+- It doesn't have to be a full-fledged pixel perfect Figma prototype, some hand-drawn wireframes (or some Google slides) are good enough
 - We're just looking to see how you think and spur discussions during our interview
 - With that said, if you want to use Figma or XD or some other prototyping app, please feel free to do so.
 - But please, don't spend an entire day or evening doing this...
