@@ -2,7 +2,7 @@
 
 ## Story
 
-As an owner of two cats and one dog, I occassionally have to travel out of town for a day or two. Whenever a new pet sitter cares for my pets, it would be great if I could easily share the care instructions with them.
+As an owner of two cats and one dog, I occassionally have to travel out of town for a day or two. Whenever a new pet sitter cares for my pets, it would be great if I could easily share the pet care instructions with them.
 
 ## Things that we're looking
 
